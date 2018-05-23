@@ -1,4 +1,4 @@
-# Execução dos testese - Índice
+# Execução dos testes - Índice
 
 1. [Executando testes da Nuvem (Browserstack)](/docs/d-execucao-teste/01_teste-nuvem.md)
 
