@@ -52,7 +52,10 @@ Mesmo sendo a maneira mais direta de acessar um elemento da página Web, se por 
 
 
 7. Busca do elemento por "Tag name": Existe um conjunto limitado de nomes de tags em HTML. Em outras palavras, muitos elementos compartilham a mesma tag em uma página. Normalmente não usamos o localizador ‘tag_name’ para localizar um elemento. Mas existe uma exceção:
+
 ![](/imagens/07_tag-name.png)
+
+A declaração de teste acima retorna a exibição do texto de uma pagina. Isso é muito útil como o Selenium WebDriver não possui nenhum método interno para retornar o texto de uma página Web.
 
 8. Busca do elemento por "class": O atributo de ‘class’ é um elemento HTML usado para a folha de estilo. Também pode ser usado para identificar elementos. É comum o atributo ‘class’ de um elemento ter vários valores:
 ![](/imagens/09_class.png)
