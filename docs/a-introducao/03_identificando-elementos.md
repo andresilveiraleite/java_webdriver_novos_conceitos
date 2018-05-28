@@ -5,7 +5,7 @@ Isso depende muito da forma que a aplicação foi desenvolvida.
 
 Seguem alguns exemplos em como identificar os elementos:
 
-1. [Geral](https://github.com/andresilveiraleite/java_webdriver_novos_conceitos/blob/master/imagens/01_dentificando-elementos.png)  
+1. [Geral](/imagens/01_dentificando-elementos.png)  
 
 
 
