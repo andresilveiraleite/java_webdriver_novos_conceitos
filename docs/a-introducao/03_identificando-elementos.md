@@ -5,7 +5,7 @@ Isso depende muito da forma que a aplicação foi desenvolvida.
 
 Seguem alguns exemplos em como identificar os elementos:
 
-1. [Geral](/imagens/01_dentificando-elementos.png)  
+1. ![Quadro de Exemplo Geral](/imagens/01_dentificando-elementos.png)  
 
 
 
