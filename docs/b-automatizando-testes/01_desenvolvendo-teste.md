@@ -94,8 +94,8 @@ Limpa um campo que já possui um valor default.
 
 getAttribute(String atributo) 
 Retorna o texto contido em um atributo. No código <a id="mensagem">Este é meu texto</a>, o getAttribute("id") retornaria "mensagem".
-```
 
+```
 
 
 
