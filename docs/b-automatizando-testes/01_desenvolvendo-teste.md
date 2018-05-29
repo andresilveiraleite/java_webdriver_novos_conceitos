@@ -78,6 +78,8 @@ public class InformacoesUsuarioTest {
     }
 }
 ```
+
+```
 Alguns dos métodos mais utilizados em um WebElement são:
 click() 
 Para clicar em um determinado elemento.
