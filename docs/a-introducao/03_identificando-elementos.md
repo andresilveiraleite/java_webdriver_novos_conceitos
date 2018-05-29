@@ -1,4 +1,4 @@
-# Identificando Elementos e desenvolvendo o 1 script de teste
+# Identificando Elementos
 ## Podemos identificar os elementos de uma página por ID, Name, Text, etc.
 ### Isso depende muito da forma que a aplicação foi desenvolvida.
 
@@ -96,7 +96,15 @@ Depois executamos o .click no elemento find_element(:id, “month”).
 
 
 
+### Caso você não conheça muito sobre HTML e seus elementos, segue abaixo dois links que poderão lhe ajudar bastante:
 
+## Elementos mais comuns no HTML
+
+https://www.w3schools.com/html/html_elements.asp
+
+## Atributos constantemente usados em elementos
+
+https://www.w3schools.com/html/html_attributes.asp
 
 
 
