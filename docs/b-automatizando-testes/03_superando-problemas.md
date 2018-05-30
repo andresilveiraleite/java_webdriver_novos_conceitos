@@ -125,5 +125,28 @@ https://www.typemock.com/unit-test-patterns-for-net#aaa
 ### Veja abaixo a relação completa de métodos disponíveis para interação com comboboxes:
 http://seleniumhq.github.io/selenium/docs/api/java/index.html
 
+``` 
+1. Alguma anotações interessantes sobre identificação de elementos com xpath - Métodos básicos:
+// --> Procura o elemento em toda a página
+/  --> Procurar exatamente o primeiro filho
+[@atributo='seu valor'] --> Procura o Parâmetro desse elemento 
+
+Exemplo 1. //div[@id='moredata']                    --> Encontrou a div que constava a informação moredata
+Exemplo 2. //button[@data-target='addmoredata']     --> Poderíamos procurar pelo elemento button
+
+Exemplo 3. Podemos utilizar um conjunto de parâmetros:
+//div[@id='moredata']//button[@data-target='addmoredata']  
+
+Melhorando a busca:
+//div[@id='moredata']/div/button[@data-target='addmoredata']  
+
+2. Formas de identificação de uma combo:
+3 formas de identificar uma combo:
+Pelo índice --> 0, 1.
+Pelo Value --> email , phone
+Pelo texto --> email , phone
+
+```
+
 [Voltar](https://github.com/andresilveiraleite/java_webdriver_novos_conceitos/blob/master/docs/b-automatizando-testes/001_automatizando.md) 
 
