@@ -50,6 +50,8 @@ porém precisamos do XPath e para isso basta clicar com o botão direito do mous
 ***  Veja que todo o bloco relacionado ao campo de busca do Google foi selecionado.
 Mesmo sendo a maneira mais direta de acessar um elemento da página Web, se por ventura um desenvolvedor acrescentar ou remover uma ‘div’ o seu selector pode ser alterado.
 
+Excelente link para estudo e análise do XPATH:
+https://www.red-gate.com/simple-talk/dotnet/net-framework/xpath-css-dom-and-selenium-the-rosetta-stone/
 
 7. Busca do elemento por "Tag name": Existe um conjunto limitado de nomes de tags em HTML. Em outras palavras, muitos elementos compartilham a mesma tag em uma página. Normalmente não usamos o localizador ‘tag_name’ para localizar um elemento. Mas existe uma exceção:
 
